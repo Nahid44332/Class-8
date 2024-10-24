@@ -1,0 +1,23 @@
+body {
+    background-color: antiquewhite;
+}
+.heading {
+    margin: 40px;
+    text-align: center;
+    background-color: aquamarine;
+}
+form {
+    background-color: aqua;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    margin: auto;
+    bottom: auto;
+}
+.marquee {
+    background-color: greenyellow;
+    color: red;
+}
+p {
+    text-align: center;
+}
